@@ -13,6 +13,7 @@
 - [Noninvasive Vascular Diagnosis: A Practical Guide to Therapy
 ](https://books.google.co.kr/books?id=idHprbBeQngC&pg=PA468&lpg=PA468&dq=ppg+apg+abcde&source=bl&ots=ABH7Izo7G5&sig=ACfU3U2YoLQxfFQ7THfNbsTwfr57RryClQ&hl=ko&sa=X&ved=2ahUKEwjTza3X34vpAhVQG6YKHb2aDYcQ6AEwD3oECAgQAQ#v=onepage&q=ppg%20apg%20abcde&f=false)
 - 위 자료가 원문이라 해석해가며 공부하고 있다.
+## 프로젝트 내용
 ### 과제 목적
 혈관으로 자신의 건강상태를 파악해 현재 노화속도 및 혈관 상태를 파악함으로써 더 늙기 전에 건강을 챙길 수 있도록 한다. 이는 어르신들뿐만 아니라 모든 사람들에게 해당하며 분석을 통해 사람들이 자신의 혈관 나이를 파악하여 늦제 않게 대처하길 바란다.
 ### 과제 내용
